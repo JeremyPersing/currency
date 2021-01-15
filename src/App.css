@@ -1,0 +1,12 @@
+body {
+    color: rgb(255, 255, 255);
+    background: url('./Background-Money5.jpg');
+}
+
+#currency-converted {
+    background: white;
+    color: #6c757d;
+    padding: 5%;
+    /* Will start out hidden but once converted it will become visible */
+    visibility: 'hidden';
+}
