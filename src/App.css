@@ -10,3 +10,10 @@ body {
     /* Will start out hidden but once converted it will become visible */
     visibility: 'hidden';
 }
+
+@media all and (max-width:575px) {
+    .small-button {
+        width: 100%;
+        display: block;
+    }
+}

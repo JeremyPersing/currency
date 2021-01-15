@@ -132,7 +132,7 @@ function App() {
                   </select>
           </div>
         </div>
-        <input type='submit' className='btn btn-lg btn-secondary mt-5 offset-5' value='Convert'></input>
+        <input type='submit' className='btn btn-lg btn-secondary small-button mt-5 offset-sm-5' value='Convert'></input>
       </form>
       <div id='currency-converted' style={{visibility: 'hidden'}} className='mt-5 rounded'>
         <div className='form-row'>
