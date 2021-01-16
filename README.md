@@ -1,7 +1,7 @@
 # Currency Converter
 
 # Purpose
- Currency Converter is an application that takes a base currency and another currency and display the conversion rate between the two currencies.
+ Currency Converter is an application that takes a base currency and another currency and displays the conversion rate between the two currencies.
 
 # Technologies Used
  React, Bootstrap, and exchangeratesapi
